@@ -1,6 +1,6 @@
 # Hi 👋, I'm Melisa (she/her)
 
-- 👩‍💻 Currently working on my portfolio.
+- 👩‍💻 Currently learning more about React.
 - 💻 I've been writing code with React, Vue.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind, Bootstrap, Firebase, Supabase.
 - 🔧 Tools I use: VS Code, GitHub, Jira.
 - 🌱 Next: I want to learn more about TypeScript, React Native, Sass and testing.
