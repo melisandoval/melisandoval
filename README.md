@@ -3,7 +3,7 @@
 - 👩‍💻 Currently learning more about React.
 - 💻 I've been writing code with React, Vue.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind, Bootstrap, Firebase, Supabase.
 - 🔧 Tools I use: VS Code, GitHub, Jira.
-- 🌱 Next: I want to learn more about TypeScript, React Native, Sass and testing.
+- 🌱 Next: I want to learn more about TypeScript, clean code and testing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/melisandoval/).
 
 
