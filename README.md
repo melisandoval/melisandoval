@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/melisandoval/).
 
 
-# Featured Projects
+# Featured Projects:
 
 
 | Sneak peak image      | Name  | Short description | Stack        | GitHub repository | Live version |
